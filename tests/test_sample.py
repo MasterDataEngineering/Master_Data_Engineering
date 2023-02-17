@@ -1,9 +1,7 @@
-import unittest
+import pytest
 
-class TestAssertions(unittest.TestCase):
-
-    def test_equals(self):
-        self.assertEqual("one string", "one string")
-        
+def test_always_passes():
+    assert True
+    
 if __name__ == '__main__':
-    unittest.main()
+    pytest.main()
