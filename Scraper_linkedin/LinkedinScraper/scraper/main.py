@@ -3,8 +3,13 @@ from linkedin_api import Linkedin
 from linkedin_custom_search import LinkedinCustomSearch
 from processor import Processor
 from scraper import Scraper, ScraperConfig
+from dotenv import dotenv_values
 
-api = Linkedin('projectfreedom95@gmail.com', 'Danis$1324')
+config = dotenv_values(".env")
+EMAIL=config['EMAIL']
+USRNAME=config['USRNAME']
+
+api = Linkedin(EMAIL, USRNAME)
 
 processor = Processor()
 searcher = LinkedinCustomSearch(api)
