@@ -1,0 +1,3300 @@
+{
+  "data": {
+    "metadata": {
+      "locationInfo": {
+        "location": "Italy",
+        "dashGeoUrn": "urn:li:fsd_geo:103350119",
+        "geoUrn": "urn:li:fs_geo:103350119",
+        "$type": "com.linkedin.voyager.search.LocationInfo"
+      },
+      "keywords": "data+engineer",
+      "origin": "JOB_SEARCH_RESULTS_PAGE",
+      "taggedQueryType": "TITLE",
+      "type": "JOBS",
+      "facets": [],
+      "guides": [
+        {
+          "displayText": "All",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "TOP",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->TOP",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "People",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "PEOPLE",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->PEOPLE",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "Jobs",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "JOBS",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->JOBS",
+          "selected": true,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "Content",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "CONTENT",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->CONTENT",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "Companies",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "COMPANIES",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->COMPANIES",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "Groups",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "GROUPS",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->GROUPS",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }, {
+          "displayText": "Schools",
+          "type": "VERTICAL",
+          "guideInfo": {
+            "vertical": "SCHOOLS",
+            "$type": "com.linkedin.voyager.search.VerticalGuide"
+          },
+          "urlParameter": "v->SCHOOLS",
+          "selected": false,
+          "$type": "com.linkedin.voyager.search.Guide"
+        }
+      ],
+      "sortBy": "R",
+      "id": "FURD8MAGlKSG/8533MnMpg==",
+      "taggedQueryKeyword": "data engineer",
+      "$type": "com.linkedin.voyager.search.SearchMetadata",
+      "taggedQueryUrn": "urn:li:title:2732",
+      "pastJobSearchMatch": false
+    },
+    "entityUrn": "urn:li:collectionResponse:LPJiKDK1pDG/XGogLRFJ/evCYYgecrEXu31f/IIyeaM=",
+    "elements": [
+      {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;nFQTBaOXRMS6MPKYHWJUlQ==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342557643",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342557643",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "By7l2qIhpSFMGWkSE0477Q==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;9RAVryVPSt+rtijludGLGg==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345030507",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345030507",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "DS2n9UgOPwPQyeJ/vnjGZg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;/jwqnOC4QACA1dTCaXtx9A==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345105759",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345105759",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "CEX08z3bepdA8SsmXiTOFA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;eXN164ugRbq5xP6qIIRZ4g==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342538542",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342538542",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "pbvvB2ysWLBCxyCc/bWRwA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;fdkbE54mQSGniGH19gW5EA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342555308",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342555308",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "LjWLvPSjiYVd22N8VcLO3g==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;Dtgw5AlYQCq3+HRdvC4vNg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345557918",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345557918",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "u5fioisDIBAMeFHRZ0vP/w==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;QRg7dky0RS+p83p5pB9vRg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3308528693",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3308528693",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "rb+ZWDySdt3sdwJ//KhvOA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;bMFfiZVNSnGQ/txxyN/IVw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3308527923",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3308527923",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "Ej+STllJSKdAL/6SUkmeJg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;bWChorqKSu2f2A9LZhrYuQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3308525980",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3308525980",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "nNVn3ftv8JSBB/kTHO0E2Q==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;gUHKBSt+S2S2kUxrkM5YBg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345581113",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345581113",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "JxVhqX46xCKdo1WchMvc9A==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;2enLmxnSSoy7asEH+DeZzA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342555187",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342555187",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "AeBCMjPJiuZw93lg+Ghgmw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;uuBL/CsSSRWq93ieF7GoEA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345043639",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345043639",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "28cib0OuYWEbe58q30oupA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;SAOk7SH7TvqCWiiZQgwnCA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345597337",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345597337",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "nqkC4OC9Pcddtq5NZn2nRQ==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;IPfm8LiuTbiAONHP69VNpQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342324650",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342324650",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "r/o6+WcuXC5AMCFXy2Ju4w==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;W/O2aFslSXCE8uojXLtVqQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345713141",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345713141",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "QKGZwW0Gv2KYjWo+/OAplg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;IKxH8tMHQVmtbv0XDiUcQA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345627367",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345627367",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "CIJ+VwL8SDQ1/P1xSNEEWg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;AN5BWqVyQgSl1UYQ2CjtBQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3337767073",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3337767073",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "rYDVOlRG06bOopZzU7Z6yw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;O9rbOj1gTeiss64PvD6A1A==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342559118",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342559118",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "NNqDVUV1OoFUI4TArQSwFw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;k0CRXj5lR3K9JUa8Zjj50w==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345654351",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345654351",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "KBGeMzYVdXk15VbC1NmX6g==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;tO6qT/YvQSG5nn5wClIh9A==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342557591",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342557591",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "6NyDBlnbSRILv1qpypM3Hw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;1JQhPF4yRvC+3Hd9ARXDLw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342368321",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342368321",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "rd3/kSnIZh0zh4x1R4YekA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;3WWWbNNLQuaiuTG3mEKPgg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342506478",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342506478",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "vVEzdEq8KNHQgIFw48/JyA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;pt/7lTWNRKedERiExfwy6Q==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342567382",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342567382",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "9aEyV+pAQ6hf4lBRv3Mfuw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;Wk75fEMiSAOPTNyVoFBC1A==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342562684",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342562684",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "kLaZjSZmsin8c8A8xyM50Q==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;467y8C+aSbCbs/X4AHTOIw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342158094",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342158094",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "1rvKqkmSM8D5oiJMV7As3Q==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;H7ZhWV2PQfGMtI+cQMJmNg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3231306107",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3231306107",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "fSK/v72i+LWhTHyOBQdOdA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;osFIPOmjSo2NPhJ2DhD67w==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342345731",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342345731",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "WDbL5UfmXvY4ZF8WHNHKzQ==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;j21zvwVLSTCmyzWiVdVQmA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345593140",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345593140",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "0hl/d2I3IJAkBknrBsXZsw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;wWL9lV+vTd+nJn1vH/ayZQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3337762712",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3337762712",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "xyN2xavnINmcLJ0UCmJzmw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;OOkHlqOZQDisyOMJUvaAIw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342154924",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342154924",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "MSF3s1j1i746kbW3cQe77w==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;ccRq9p/KTp+nD3j4iWHMsg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342157450",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342157450",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "hz2pTlkeSN6NJJ8Qu2BxoA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;3hD0NHCyTtqDGDPmWepyCg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342557100",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342557100",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "c19RzYIif7BKV0CvyLZZ3A==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;Hk74wV5RSW2JI5ImRN61xQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3173761385",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3173761385",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "IfEdQ8e65gHd6+72edyWdg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;HAzwXy6rSZW9d9z/RxsaDg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3307317145",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3307317145",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "lxThQmrtxGk+x3w7tmjKcw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;tphDn7b8T8Wpp3DPj1JOhQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3344536726",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3344536726",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "e2rQcsuNzq6zRmW+5K0qBA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;QL9+0Cc6SVO4p85c+dKrbg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3345718359",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3345718359",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "yRevb2TbPfMu2Q9Qdz68lA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;BSLfgGv+Q/a5maWYlriaog==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342327054",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342327054",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "AOItsnqkWGobg7pjWSsIqQ==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;B6RyZiCOR8K3ChSHJquqDg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3337022804",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3337022804",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "lGqMInSEUhCCpEq3tf7mMw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;HoEWZ80JQOKMNmXqxC22tg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3095531552",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3095531552",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "ZR6qTjoFMYH5MeeAt/kuXg==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;wcTHqhvGTiWGBgn1+kdUnw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3303591625",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3303591625",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "oz7/Zh2rdkHMSUVzB5++bw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;+q+YG9U2TImfux6mluIVRA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3270496542",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3270496542",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "uQypcPW8ZK0pLrVqqpAYHw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;Spo5g1pvR++gcTQ6iQ9eag==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3281156677",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3281156677",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "OdJ1COKtWCz3H06le75e/g==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;8gTwsdozR+O9Ozo8vepQOQ==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342540893",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342540893",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "QeNP4hupGcgpnQyj9QS40g==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;D9wXHlrBQReLMkxmuq2owA==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3281033616",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3281033616",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "/su3TY4Ick6/l5hC2SnHaQ==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;ujMqBj0sQFKa9hnJ7vT1dw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342326069",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342326069",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "xlzqOmQAZz25ECtdcUqjgQ==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;ZSDyhlSiTYKWLFQq3xAcsQ==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3342318874",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3342318874",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "T/6dVoWitFldX8N1hZ/bmw==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;UG5NbKwQR6mKY+4UT/5N8g==",
+        "hitInfo": {
+          "sponsored": true,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3281049110",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3281049110",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "aLRPDysLsvZDs2VZkb0B8w==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;vxWVwVttTxKfKrP4Ss1xTw==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3339518645",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3339518645",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "dQr+bbkqsjz21JbcslFfoA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }, {
+        "targetPageInstance": "urn:li:page:d_flagship3_job_details;Mt0JMRRBTJ2YhIFzVZ3RMg==",
+        "hitInfo": {
+          "sponsored": false,
+          "jobPosting": "urn:li:fs_normalized_jobPosting:3344671525",
+          "*jobPostingResolutionResult": "urn:li:fs_normalized_jobPosting:3344671525",
+          "explanation": null,
+          "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpLite"],
+          "$type": "com.linkedin.voyager.search.SearchJobJserp",
+          "score": null,
+          "sponsoredToken": null
+        },
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobSearchHitLite"],
+        "trackingId": "bGGcAcTuAQQddfJF7nbrNA==",
+        "$type": "com.linkedin.voyager.search.SearchHit"
+      }
+    ],
+    "paging": {
+      "total": 442,
+      "count": 49,
+      "start": 0,
+      "links": []
+    },
+    "$type": "com.linkedin.restli.common.CollectionResponse"
+  },
+  "included": [
+    {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342557643",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:145751",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:145751",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Veneto, Italy",
+      "listedAt": 1667580654000,
+      "title": "Cloud Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342557643",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345557918",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:2743",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:2743",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Catania, Sicily, Italy",
+      "listedAt": 1667572440000,
+      "title": "Sales Data Analyst_Stage",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345557918",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342555187",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:1212327",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:1212327",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Turin, Piedmont, Italy",
+      "listedAt": 1667578524000,
+      "title": "Middle Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342555187",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345043639",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:10974497",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:10974497",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "European Union",
+      "listedAt": 1667554200000,
+      "title": "Business Intelligence Data Engineer (m/f/d) - remote in Europe",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345043639",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342555308",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:1545609",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:1545609",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Italy",
+      "listedAt": 1667579618000,
+      "title": "Freelance Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342555308",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342368321",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:952769",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:952769",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Rome, Latium, Italy",
+      "listedAt": 1667563849000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342368321",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342327054",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:7370",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:7370",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Campi Bisenzio, Tuscany, Italy",
+      "listedAt": 1667556087000,
+      "title": "Software Test Engineer (1310_46089)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342327054",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342157450",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:162842",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:162842",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667501271000,
+      "title": "AI Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342157450",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3337022804",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:155255",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:155255",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Ivrea, Piedmont, Italy",
+      "listedAt": 1667530094000,
+      "title": "SENIOR SYSTEM ENGINEER",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3337022804",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3307317145",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:389481",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:389481",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Galliera Veneta, Veneto, Italy",
+      "listedAt": 1667565191000,
+      "title": "Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3307317145",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3337767073",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:14856715",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:14856715",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667576307000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3337767073",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3344536726",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:72640623",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:72640623",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667544392000,
+      "title": "Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3344536726",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345597337",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:4262585",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:4262585",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Arco, Trentino-Alto Adige, Italy",
+      "listedAt": 1667575621000,
+      "title": "System Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345597337",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342345731",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:35296",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:35296",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667562331000,
+      "title": "BI Data Engineer | 80% Remote working",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342345731",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3337762712",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:3149226",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:3149226",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Limena, Veneto, Italy",
+      "listedAt": 1667576626000,
+      "title": "SOFTWARE ENGINEER",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3337762712",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345627367",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:1929240",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:1929240",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667577268000,
+      "title": "DATA ENGINEER",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345627367",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342562684",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:37555254",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:37555254",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667581760000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342562684",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345713141",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:2346841",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:2346841",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Casalecchio di Reno, Emilia-Romagna, Italy",
+      "listedAt": 1667583114000,
+      "title": "Data Warehouse Developer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345713141",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3308527923",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:3033",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:3033",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Florence, Tuscany, Italy",
+      "listedAt": 1667553981000,
+      "title": "Junior Data Engineer_AEHit",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3308527923",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342324650",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:7370",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:7370",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Turin, Piedmont, Italy",
+      "listedAt": 1667556087000,
+      "title": ".Net & Azure Software Engineer (1310_54394)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342324650",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342559118",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:239533",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:239533",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "European Union",
+      "listedAt": 1667580026000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342559118",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345718359",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:5300",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:5300",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Italy",
+      "listedAt": 1667583736000,
+      "title": "Senior Data Scientist/Machine Learning Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345718359",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345581113",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:6585",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:6585",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667574055000,
+      "title": "GUCCI Global ML Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345581113",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342158094",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:162842",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:162842",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Rome, Latium, Italy",
+      "listedAt": 1667501270000,
+      "title": "AI Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342158094",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3308528693",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:3033",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:3033",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Cagliari, Sardinia, Italy",
+      "listedAt": 1667556930000,
+      "title": "Junior Data Engineer_AEHit",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3308528693",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3308525980",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:3033",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:3033",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Perugia, Umbria, Italy",
+      "listedAt": 1667553855000,
+      "title": "Junior Data Engineer_AEHit",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3308525980",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342506478",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:26684491",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:26684491",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Lecce, Apulia, Italy",
+      "listedAt": 1667568440000,
+      "title": "Data Engineer (M/F)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342506478",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3231306107",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:28538540",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:28538540",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Florence, Tuscany, Italy",
+      "listedAt": 1667577601000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3231306107",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3303591625",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:2041",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:2041",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667506096000,
+      "title": "Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3303591625",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342557100",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:67884",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:67884",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Piedmont, Italy",
+      "listedAt": 1667579721000,
+      "title": "Junior System & Networking Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342557100",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342538542",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:224006",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:224006",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Vimercate, Lombardy, Italy",
+      "listedAt": 1667574752000,
+      "title": "Embedded Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342538542",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342326069",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:7370",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:7370",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Brescia, Lombardy, Italy",
+      "listedAt": 1667556087000,
+      "title": "System Engineer (1310_48915)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342326069",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345654351",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:11091664",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:11091664",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667578768000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345654351",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3281156677",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:5093151",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:5093151",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Italy",
+      "listedAt": 1667559086000,
+      "title": "Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3281156677",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342567382",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:1349",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:1349",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667582326000,
+      "title": "Data Visualization Intern",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342567382",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345030507",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:11565576",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:11565576",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Abruzzi, Italy",
+      "listedAt": 1667553026000,
+      "title": "Local Security Monitoring Engineer  (m/f/d) Italy",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345030507",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3173761385",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:155580",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:155580",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Bologna, Emilia-Romagna, Italy",
+      "listedAt": 1667579121000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3173761385",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342557591",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:17954388",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:17954388",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667580455000,
+      "title": "Associate Software Engineer - Open Banking Expansion",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342557591",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342154924",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:162842",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:162842",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Palermo, Sicily, Italy",
+      "listedAt": 1667501292000,
+      "title": "AI Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342154924",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342318874",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:14030866",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:14030866",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667552816000,
+      "title": "Software Developer (C++, Linux)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342318874",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345593140",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:5324551",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:5324551",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Rome, Latium, Italy",
+      "listedAt": 1667574833000,
+      "title": "Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345593140",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3345105759",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:2566485",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:2566485",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667558250000,
+      "title": "Senior Android Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3345105759",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3344671525",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:166758",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:166758",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Bari, Apulia, Italy",
+      "listedAt": 1667545904000,
+      "title": "Data Analyst",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3344671525",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3095531552",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:369194",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:369194",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Rome, Latium, Italy",
+      "listedAt": 1667572527000,
+      "title": "Big Data Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3095531552",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3281049110",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:163578",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:163578",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Greater Milan Metropolitan Area",
+      "listedAt": 1667557989000,
+      "title": "Sr ServiceNow Portal UI Developer (Remote)",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3281049110",
+      "workRemoteAllowed": true
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3342540893",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:916536",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:916536",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Prato, Tuscany, Italy",
+      "listedAt": 1667575758000,
+      "title": "Database Software Engineer",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3342540893",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3281033616",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:748731",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:748731",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Milan, Lombardy, Italy",
+      "listedAt": 1667552568000,
+      "title": "Senior Software Engineer - JavaScript",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3281033616",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3339518645",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:1344",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:1344",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Monza, Lombardy, Italy",
+      "listedAt": 1667544393000,
+      "title": "Junior Application Engineer - Apprenticeship",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3339518645",
+      "workRemoteAllowed": false
+    }, {
+      "dashEntityUrn": "urn:li:fsd_jobPosting:3270496542",
+      "companyDetails": {
+        "company": "urn:li:fs_normalized_company:433176",
+        "*companyResolutionResult": "urn:li:fs_normalized_company:433176",
+        "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebJobPostingWithCompanyName"],
+        "$type": "com.linkedin.voyager.jobs.JobPostingCompany"
+      },
+      "formattedLocation": "Iesi, Marches, Italy",
+      "listedAt": 1667569403000,
+      "title": "SOFTWARE ENGINEER",
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpJobPostingLite"],
+      "$type": "com.linkedin.voyager.jobs.JobPosting",
+      "entityUrn": "urn:li:fs_normalized_jobPosting:3270496542",
+      "workRemoteAllowed": false
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:5093151",
+      "name": "Nozomi Networks",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEv4flKPS1slw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1604687612339?e=1675900800&v=beta&t=xjEtXFiWt-UyMXfkeGSiCUE3tEcSHFGUkHg1maTdjm8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1604687612339?e=1675900800&v=beta&t=wmzdcpFEjr5G_Q5J2ot1UK5Y1fs9goTWNf19xsDLmHU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1604687612339?e=1675900800&v=beta&t=e3Je6S1Nr6sG2U7E3unQ9wn4I3mGXS8SpagxoeGkIgQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:5324551",
+      "name": "EstiaTech - Passion for Technology",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEHRcYnijyi_A/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1641806309106?e=1675900800&v=beta&t=VXRT2MJG0uZMVMafZPJfqm94tWdgjfhzmvW8HUTDzIA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1641806309106?e=1675900800&v=beta&t=r8es_zH8Lq7N0lu75SZ7dEEK-ELZRMH5pE2-o5tRHo0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1641806309106?e=1675900800&v=beta&t=qfcCXURWfqjtybrrfAAIqC-y8YdRPtcIcsEXXA7kX7k",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:1929240",
+      "name": "S2E | Business Technology Consultants",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG-hafeb4nb_Q/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1568803553401?e=1675900800&v=beta&t=6QhbqwdGlR73xm_Lwdl7CcQfLdcWskMxqo11U-TqYV8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1568803553401?e=1675900800&v=beta&t=pZFpQQG3XknskcZNEzfAxKunOMCw6VW9sJPW_8ll65E",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1568803553401?e=1675900800&v=beta&t=TBCS_hyt-tCnhTWxxGrCMNmwceajPYO7p7DaA8_0t-Y",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:155580",
+      "name": "Teoresi Group",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGP19aAN_C1TQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1658382885395?e=1675900800&v=beta&t=YtyD_P7CMCXIzZRe_zM2zNIzvxP3kS5qyPt3xPPLy4Y",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1658382885395?e=1675900800&v=beta&t=_md-GBTu0k33HIsRszARGfvGTXdQWFRAUPLKHvn4IBQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1658382885395?e=1675900800&v=beta&t=Ph5vXuatJ1ankvMZAVUxB-KHA55d0cP7xwLVaB_nV6o",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:166758",
+      "name": "NTT DATA Italia",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH6D6uny6fmHg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1657717176371?e=1675900800&v=beta&t=l9SXEWoRcSk95wji5B3TGLCHgbhN0OG5AcrmEor3bNg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1657717176371?e=1675900800&v=beta&t=SuhwSXgRQLVdncX2EvGKMCabAqTl9dILnFkFHcxtHEc",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1657717176371?e=1675900800&v=beta&t=Z_lejC0DD_Pv8LhRC-JL8SO7J9jL9ZEmwxyqFwLLVkE",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:224006",
+      "name": "Modis",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEZUvRVJ8XLmw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1603190267070?e=1675900800&v=beta&t=Vw8DWtidCJB1SD7JE-h00ow0LAmWdQG5Gs7OjiyqIzY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1603190267070?e=1675900800&v=beta&t=8MiQ6_3m1cDXMfIjFTqTubCDhQr9W1TXGeeyIHwYiQg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1603190267070?e=1675900800&v=beta&t=dVT8ZBPY9h83s9llE1NZQpF1Frl6eQgpV9T6f-L-XzQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:433176",
+      "name": "Gruppo Maggioli",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQG0vu0mhtoVAQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1519896696300?e=1675900800&v=beta&t=8rzUj20ctLMOw1AXQXgsd6U4SxUBPTW6pEaThKD-CWA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1519896696300?e=1675900800&v=beta&t=vsTK4bxhjHcKzpG3MZGKkTAVZ2zM_YcAreBGWjnfnwk",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1519896696300?e=1675900800&v=beta&t=Oshgva0vjvSlm1PvMz4Zr6BLsb9miryyWcp3J6w4g_s",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:11565576",
+      "name": "Spaceopal",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH3CDS9gZRr1w/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1523539078445?e=1675900800&v=beta&t=HgiDN2d8fzpHJrIxyo-Zw2cSQm9gD7Mn4a-3wbrpqBo",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1523539078445?e=1675900800&v=beta&t=DyGD4w9E9l1Z42gU4lN-Z84zJCO_Fu_u75UwUcCfbLA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1523539078445?e=1675900800&v=beta&t=0bTvmRhjRlnKJs9Om5WwrUn64-igLYRqhmpymJsYJFk",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:14856715",
+      "name": "Huware",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFYhYGHgNYh1Q/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1561044028288?e=1675900800&v=beta&t=-_VElXdffGtyDIlPM_KbZ1Ik-Gnx0O-3ev0qc1H7Z40",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1561044028288?e=1675900800&v=beta&t=nMDqRwL5Y8oCuqapWlQg6FNeGTfHQir_od09MCyFqwA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1561044028288?e=1675900800&v=beta&t=HyenNLvbQgWJBsb1eMX0me7XIN0mVLD6z6Nv-Prjzi4",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:2566485",
+      "name": "Contentsquare",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQF_YCr9bxQlBw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1648047227139?e=1675900800&v=beta&t=7hEyeen6QOEFAbGzMUwr4ssITnJr1NGihCshDAzZ11A",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1648047227139?e=1675900800&v=beta&t=mInl_P7bwzWQ2UO8nbnWm1fWq4fLC_DulKwdrIDSQtQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1648047227139?e=1675900800&v=beta&t=neH-qfZZIVMJxk9w7AtATXsjk_mWXuWnJCR13ROlHMg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:952769",
+      "name": "EgoValeo | Ricerca e Selezione del Personale",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHw9sNhLwap2w/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1519890839771?e=1675900800&v=beta&t=7pk1h1LtzOGC-gmwAu7AVy3RvO3a-2T0E8ca1Jeuhws",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1519890839771?e=1675900800&v=beta&t=vFTOvjFVw4_4DOtA-VYUO-V3GzXfoe4hKoWxOmvsuwQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1519890839771?e=1675900800&v=beta&t=OU5TVPbm3d4kE3gtL5xiP6g3lwAMrWghjnBm6bPygm0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:11091664",
+      "name": "Kineton",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHnBGzkmaNqmg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1550653422340?e=1675900800&v=beta&t=OyiZ9V03BVkL86AoZ6Erq0sL1Lm6nWYwy5Qgx-7gB50",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1550653422340?e=1675900800&v=beta&t=0VWT0RMBTckgkJfLfrX4mQGIQzDVo39W2K2sW60E328",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1550653422340?e=1675900800&v=beta&t=TarkZCnpmL7kk9jJWGXgQgCOI21SfrK3kz0i5-4gCq8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:26684491",
+      "name": "Expleo Group",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYiIr4bqTyoQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1656660504801?e=1675900800&v=beta&t=qFwEkvMQrpYl1QXSfL32VMkMlK-ViWFwEiH7KTCMSSM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1656660504801?e=1675900800&v=beta&t=4wBZ7kJ-vh2Y6m6UgCxcHv_5TRr_WqIRqiYcbFH9tg0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1656660504801?e=1675900800&v=beta&t=SOPq4DS_YRcH1NR6rREsVBYEcnoDarOm1sqKUz8rXD4",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:389481",
+      "name": "GEA Group",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEucamfzXdVJQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1646286245791?e=1675900800&v=beta&t=yhArdSaB2kCviLezxRjez-SxTV-yXEI9jAfz49DR58M",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1646286245791?e=1675900800&v=beta&t=racKVxN6HSs2ZLNuZ0GRfCZEPTKZckDeKABgCAX8pSI",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1646286245791?e=1675900800&v=beta&t=igrATfvXlV5ueWLdT6hC7RZWzaqYp5S47seHDXoPCcg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:67884",
+      "name": "Deltatre",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFb0FSUeW_WNw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1540204086148?e=1675900800&v=beta&t=SLb_W_RY46n4Ns4WZRkLeIlBN_fPhcYkpP2a230vBAU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1540204086148?e=1675900800&v=beta&t=1nxIvJxqF5I_tDrx609hWYd9xr6YJJtAfH8k7jnjaRM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1540204086148?e=1675900800&v=beta&t=fn6a-8IL5jNRqE9ABQLz4AfWDlilC28k8-6KmBa--X8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:145751",
+      "name": "Miriade Srl",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH3h2hcZrnF2Q/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1625134934678?e=1675900800&v=beta&t=ynR7D0TAX8Y63ngurPigLTPBE3ocFJcLKZi8MzITlCM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1625134934678?e=1675900800&v=beta&t=2DNt2pzlU0Po2Wn6rPRIy0sANTaKC70w8VuECA3oSlM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1625134934678?e=1675900800&v=beta&t=sgVtxvFzBv5YU5b98mAdZv8m_y3rYJGS3cy91iy8nDI",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:1545609",
+      "name": "Toptal",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEJlZg66jWL4w/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1580139518352?e=1675900800&v=beta&t=WoD43p-ddZmLGMol33i-NbVOrC5LrnyrIZ3c86Swc_0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1580139518352?e=1675900800&v=beta&t=pzpfPwcOy8n5hMDcHcTm9H_VBw6J60-A1sM0VQrQwRg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1580139518352?e=1675900800&v=beta&t=c7bQrUh2Isshyy4xhg9GIUKrOc25XqJFcyfIMn1dGmY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:162842",
+      "name": "BIP",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFnNZsGfbyE3g/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1647536253706?e=1675900800&v=beta&t=nSiWfjmUar1oNvibqIxGlXC0hmsDHiYXQxITD6clWug",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1647536253706?e=1675900800&v=beta&t=zxOOv1AgysyaRU2DoLn2huV1i_EUT8oi_0eMPiOUuS4",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1647536253706?e=1675900800&v=beta&t=TZkTWwOmwIzpw2tMCfKPZKXkb4T5UBghICryQO8HQeY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:2041",
+      "name": "Aon",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE6qfY9FZ0C0w/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1663684478440?e=1675900800&v=beta&t=mQMlAIqylHjDX7iqXfHYYKY5F8a8_0bMgZWt3wDyfMA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1663684478440?e=1675900800&v=beta&t=X-3PSCO49V8kmJ0ClHnGijRE9D9JFTdPTEPOMLx_reE",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1663684478440?e=1675900800&v=beta&t=UJ8bcltUdkHBWNDZIMP7Yu7hoPLMxKXLpu5pdR4meTM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:239533",
+      "name": "OneAPPS Consulting",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEBxmLubNtTfg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1610996671818?e=1675900800&v=beta&t=iJC_r52MFcyizr86A2sQJ3HaEHhQsuzfb-Z3VKEtYZg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1610996671818?e=1675900800&v=beta&t=w29EnhuwZ3Dx_-2dxTLMwcprmeVAnDHFlxaMzdhlh3Q",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1610996671818?e=1675900800&v=beta&t=AbhhCABVKu54H8Da26pWcmCOMV5QKKL8Jyv3Lf1kI8s",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:72640623",
+      "name": "Serenis",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH8phPIngzPZg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1649188776795?e=1675900800&v=beta&t=vUxphhvxLF7uJWexC5lXBHWwDJLSkO9CTlDE5i1Ywok",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1649188776795?e=1675900800&v=beta&t=UlvxS37N4udfn7clqZ_BKWna3_wczficIHAxKujL6Jw",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1649188776795?e=1675900800&v=beta&t=TfrRPb7t-0LY3KdpInGTRBoc_-sDoN9ZY44YHiay0Yw",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:163578",
+      "name": "Edwards Lifesciences",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH0oQ2snshpFA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1522696246278?e=1675900800&v=beta&t=Skqv4Q_M0Jjv4hJmCA9ckqMwebW9IDViEYMwVjl0icQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1522696246278?e=1675900800&v=beta&t=7tH4u7HoObyKfWD4X6G5G1OqYpo1iiDk6QJvGgRzy6U",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1522696246278?e=1675900800&v=beta&t=uWbzLb3fvZFVIQxvMFFIH-nx37DHnAewOrwxosSzN6Y",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:916536",
+      "name": "Sirio Solutions Engineering SpA (SSE SpA)",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEqmtmG3QZEhA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1548060098650?e=1675900800&v=beta&t=EiMyn1QtBFHM7VxLJj7IkHKEzp940FfeKy-Xxa3o9BE",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1548060098650?e=1675900800&v=beta&t=FlVlYoo40995vradgW1jaBZcjFdn4LSDh5JXqvDOOys",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1548060098650?e=1675900800&v=beta&t=Ol6oonpewrQ4LXtoq27zyxFhA-RzWBnjIe9Rcfapvpg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:1344",
+      "name": "Honeywell",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFvcIh3UnA5zw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1535662846602?e=1675900800&v=beta&t=msFgXUxAj1YBXOuQO4aW7-ZvkR546XsdWTV3BHhmNks",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1535662846602?e=1675900800&v=beta&t=LYMHVL_yOQYlZ0PngBefFuOdivJWuTbQj-aAH2CZdps",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1535662846602?e=1675900800&v=beta&t=4bo3JKyNuLjr25I52eMb5awStBG3sBs4McM_9MMvpdY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:1349",
+      "name": "BearingPoint",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGvpPaTBtv2Ig/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1654010943385?e=1675900800&v=beta&t=BVjzzZAHA8kc617hOp_ovLyPtJilxYUOiNZ62WEPxgI",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1654010943385?e=1675900800&v=beta&t=ap82ew0KmfVWpjH3WGyQBkySLCZa-6Q0QCKyQV_Cano",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1654010943385?e=1675900800&v=beta&t=_qL94bwSAULGn2B2YMoccxDjfR6MXCPvxbr8CTUOOxo",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:5300",
+      "name": "Luxoft",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGEEw9HXvgGzA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1639383758689?e=1675900800&v=beta&t=vrhWljvvHWDLBttlo2bkPdQs4fMU_eVoGNs_VBI-A08",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1639383758689?e=1675900800&v=beta&t=IA-PBB9u3P2WzxsA16dUh6Srlj4tWDbR_n8m5Pp7clg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1639383758689?e=1675900800&v=beta&t=sG7Ux8JRAst1qxg5kNQdIykXJ2154H3o88LrUkMi8x8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:7370",
+      "name": "TXT GROUP",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF50LgkmaLcpQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1657096089579?e=1675900800&v=beta&t=2gpUtV29ONXgvlqUC0Ewzhc6snnKzAi8tZsdTcM4pCU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1657096089579?e=1675900800&v=beta&t=eQ3GsIwabqqOzQYXYAU25DxRQ8yKcszx9_9UOrPN9DM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1657096089579?e=1675900800&v=beta&t=3GzUF2937K15VUV6hi5Y24mzsOpeFsiYsp6Db4EkX3o",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:2346841",
+      "name": "Job Italia Spa Agenzia per il Lavoro",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHyBbiSvQuKxQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1541779300065?e=1675900800&v=beta&t=eHT7iE9fPJexjoMZOOpTDaRXYoIdOVO8b4Sg_y54Zcs",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1541779300065?e=1675900800&v=beta&t=AerJ5fqEii0q0GCaednX1cIxsOYIdmPOhX8IjJfJMFU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1541779300065?e=1675900800&v=beta&t=iZ1P4MfgU91tXMvYXDsJiv_4DMOyd7lZ-TkklO2b518",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:369194",
+      "name": "Immobiliare.it",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHeiGQwUp8R0g/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1560330216860?e=1675900800&v=beta&t=D9sCJnEn-e-5_fh7oUH7i7C9voo9fSLwrEFkq1C6fZ4",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1560330216860?e=1675900800&v=beta&t=2M99lvuh3uBexn6ZeR4m34Kz_92aCiO2XlvRY_uaAoE",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1560330216860?e=1675900800&v=beta&t=ctzDwPo4jbK8q8O4Kj-wK_xALJ0xPzqJXTCdvdvEjmc",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:35296",
+      "name": "Gruppo SCAI",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGAGRKQ3s0KTQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1631203135943?e=1675900800&v=beta&t=eZ5PITxLEHMg2abUQnXkpMRwc7EDUQppDJLJ7foUCfY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1631203135943?e=1675900800&v=beta&t=_R8d-0kYvTvkoEBHs0i_HtY2r_OTTB0nbRTsl9JMkNo",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1631203135943?e=1675900800&v=beta&t=zO9gNIo9vol7f_4zL3vR5MElQzxMm8NBUsw_03vIVOg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:2743",
+      "name": "IKEA",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHFZRoCWlWZ-g/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1560845690429?e=1675900800&v=beta&t=WiymbahQ3qSSQ8pHk7_aSLix3nWgawCTxpzUzBowy_0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1560845690429?e=1675900800&v=beta&t=n8gbKAYEebTVxa5k6PJ-VWf-aQUdO6JeNLRB-LihsvY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1560845690429?e=1675900800&v=beta&t=9scHDcUvxvPA8c2gvW4ns_kk5ifMKQAwvXTDqXRAjB4",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:155255",
+      "name": "RGI Group",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHkEtzPPLP5NA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1656949931745?e=1675900800&v=beta&t=nWNLipaZ1CGQINutdqAEN4nVGo9k_9ro_m82KJvEviA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1656949931745?e=1675900800&v=beta&t=EN4A97xaEFCTVjzdqpgOz18AAlxrdzpJULdtZE7wD4A",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1656949931745?e=1675900800&v=beta&t=xX6goDomYhyjg1AhErgKesZ82TAtb6soCeAc9O1nidI",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:6585",
+      "name": "Gucci",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/D4D0BAQHGIX32lusu0w/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1664536761827?e=1675900800&v=beta&t=SxvTXidFfd_JAS9zjvI1aWG3Hx7EMDDs_7mhAAhwBZk",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1664536761827?e=1675900800&v=beta&t=ZMmKcrcglXFwe-a0WHbySWmXsOtyhoYK-afm_MzEIaw",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1664536761827?e=1675900800&v=beta&t=F1IuVW54Sdgp4j1zqaVZKfqUhTkEldtXROyus4PlPjI",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:10974497",
+      "name": "Savings United GmbH",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFwlXeBx6dvwQ/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1636714237582?e=1675900800&v=beta&t=YZjh9ioW9dh-Ikj95EM7mqtKwyiilZJx4LfZbPj380A",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1636714237582?e=1675900800&v=beta&t=KOHj87HqoS_LshdBvV7Y2I8uwaXxOf5WqQmAt8qlCbQ",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1636714237582?e=1675900800&v=beta&t=iLniMX7h1Z3rQLYRvwUI2SwLx9-scGDtZ0VKRhHMgeE",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:37555254",
+      "name": "Etjca - Permanent Placement",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEYaKl3ro6QYw/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1657182690545?e=1675900800&v=beta&t=uigEExHRgUAktkrpO1680VyTsjGHK7a2Qj06DAj6NgY",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1657182690545?e=1675900800&v=beta&t=GhIgIe7V_0VocFW8tyI4fkcE88FiwvQ8P8PBTZPDUq0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1657182690545?e=1675900800&v=beta&t=LJYAhyvSxpdo8eujeBvJoncGj71BW1tc4zVZFGADIms",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:3033",
+      "name": "Avanade",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1663568656074?e=1675900800&v=beta&t=Cwhkaxs36FnHvSpJXhzJ4etg07QIc9GsE1qp-7WtfGo",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1663568656074?e=1675900800&v=beta&t=sviWPsCcZTqHRbSP1d1M7iBgNRD2otdgT_UcINskfko",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1663568656074?e=1675900800&v=beta&t=GtFddtNVQabSpk3lGtJ7uJJdM5axDVbweIdxaScH-o8",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:28538540",
+      "name": "S3K S.p.A. | Security of the Third Millennium",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/D4D0BAQHaFIAg1SFp2A/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1665407143855?e=1675900800&v=beta&t=UPpLC_D0ji9XFerVBhj9T1_mcF_MZapeSNRsRGdRs54",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1665407143855?e=1675900800&v=beta&t=MsTubrdha9iNmsL8L9A2852tMabHmVhpSV5SgB_HONM",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1665407143855?e=1675900800&v=beta&t=iKvdl8NbG8qefiFyvN1Ww-csCXkG70dHCAofRNPvSGo",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:17954388",
+      "name": "TrueLayer",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFsfcprQ8LC1A/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1656684571005?e=1675900800&v=beta&t=XNmjlXahA4qJIIchnEB_ksBlmLwurie30QthMRGkwMU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1656684571005?e=1675900800&v=beta&t=BbVx2Byc8NpvRWGKdG5imGypqy8aYacAPCwnzV0xO5M",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1656684571005?e=1675900800&v=beta&t=ieGUiHxLIBvc4eYt6ABycHzPWxO_2Ih1DMUcwdLHr5Y",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:3149226",
+      "name": "365 gradi",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE1bvWKToRrqA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1568882222337?e=1675900800&v=beta&t=jKbuR3vp3zbU4ti8LmjoCZ1XrDJ3pVnuBPsn0it_Olg",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1568882222337?e=1675900800&v=beta&t=4nSshOGEKoQyL-qJavChwrRvwLos9nqJ3tS8a_XcKxU",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1568882222337?e=1675900800&v=beta&t=ZH2s3jaAqi5XdAUWZjP-ZiGKdEtF38odOf0957aUh-0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:4262585",
+      "name": "Dana Italia",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHzc2vffkTwZg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1519890880884?e=1675900800&v=beta&t=ywmmguENiFFCL2JSbCxn261gwc4QppC3jxsRUaw8nqw",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1519890880884?e=1675900800&v=beta&t=jnt768R9GFWLoiVRwmgiVW6onCuRlBE6Fne66XFxy9E",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1519890880884?e=1675900800&v=beta&t=mkb2sCEtzqOJCgjBBLP0BmPypkNKIqtkklxfGahO20A",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:14030866",
+      "name": "AUSY Italy",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFHpnaybDyXeA/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1610031429571?e=1675900800&v=beta&t=GQRIkjHS-4G4vLnLftAPwQLtzGbnWyyPVlPNA1d4rp0",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1610031429571?e=1675900800&v=beta&t=i_qIiURhePLeHsKLglG9uCE71k-UW6ea_4OCGwPX_kA",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1610031429571?e=1675900800&v=beta&t=4Vlm5VKD3w7_Zgpgk_N-ZV_hyTQWlX4jO8YRl1xw-Ik",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:748731",
+      "name": "Klarna",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGLZq8y0KysHg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1650893275381?e=1675900800&v=beta&t=ZezaBG8Gy_R0TQZ0kSy24HzCEjKLaLzJf2CjlNmcCYs",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1650893275381?e=1675900800&v=beta&t=NHXaFkKnEmuAl4QxxCDS3CRRsIAcILCiQ4Tzdu952Po",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1650893275381?e=1675900800&v=beta&t=hMglk-ks7K7iNbHgzsZ7-6r7N4oNEoyDLpAVTtcrJrc",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }, {
+      "$anti_abuse_annotations": [
+        {
+          "attributeId": 39,
+          "entityId": 7
+        }
+      ],
+      "entityUrn": "urn:li:fs_normalized_company:1212327",
+      "name": "Betacom Group | Design Consultancy Development of IT Solutions",
+      "logo": {
+        "image": {
+          "$type": "com.linkedin.common.VectorImage",
+          "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFYpBwKl_GYzg/company-logo_",
+          "artifacts": [
+            {
+              "width": 200,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "200_200/0/1642003955676?e=1675900800&v=beta&t=dp7qv0xUR4rUmdZH_eo2ggFFPCkWVldGNJ5oTiFwIcs",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 200
+            }, {
+              "width": 100,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "100_100/0/1642003955676?e=1675900800&v=beta&t=tSaVt07_ge9v8yk38k-legYUVcS0EBXdw1xiNCdws38",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 100
+            }, {
+              "width": 400,
+              "expiresAt": 1675900800000,
+              "fileIdentifyingUrlPathSegment": "400_400/0/1642003955676?e=1675900800&v=beta&t=XxuOucPDaHJvvebvSqQ1yvd6GMZQsqBkODgKAwaczAc",
+              "$type": "com.linkedin.common.VectorArtifact",
+              "height": 400
+            }
+          ]
+        },
+        "type": "SQUARE_LOGO",
+        "$type": "com.linkedin.voyager.organization.CompanyLogoImage"
+      },
+      "$recipeTypes": ["com.linkedin.voyager.deco.jserp.WebSearchJobJserpCompanyAndLogo"],
+      "$type": "com.linkedin.voyager.organization.Company"
+    }
+  ]
+}
